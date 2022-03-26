@@ -20,10 +20,10 @@ I decided to analyze "customer-personality-analysis" data to understand:
 * For that end, I respond the following business question:
   * How much do customers spend by purchase, compared to their income?
   * How old are our customers? Do they have children?
-  * The fact of having children, how does affect to consumer behaviour?
+  * The fact of having children, how does it affect to consumer behaviour?
  
 # File Descriptions
-There are 1 notebook available.
+There is 1 notebook available: customer_personality_analysis
 
 # Conclusions
 The process followed, as well as the conclusions, are available at [Medium Post](https://medium.com/@yolandamarcosd/customer-profiling-how-to-use-data-to-improve-customers-experience-a6159058e231)
