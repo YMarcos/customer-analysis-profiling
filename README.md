@@ -8,8 +8,8 @@
 
 # Set Up
 To set up this project locally you'll need:
-  * Dataset online avaialble: "/kaggle/input/customer-personality-analysis/marketing_campaign.csv"
-  * All packages versions are described in requirements.txt
+  * Dataset online available: "/kaggle/input/customer-personality-analysis/marketing_campaign.csv"
+
 
 # Project Motivation
 I decided to analyze "customer-personality-analysis" data to understand:
