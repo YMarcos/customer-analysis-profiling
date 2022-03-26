@@ -18,7 +18,6 @@ I decided to analyze "customer-personality-analysis" data to understand:
 * How to implement a K-Means clusterization?
 * How to define and analyze customer profiles?
 * For that end, I respond the following business question:
-  * How can we personalize communications based on income and spend?
   * The fact of having children, changes consumer behaviour?
   * The fact of living alone or with a partner, changes consumer behaviour?
   * How age affects to consumer behaviour?
