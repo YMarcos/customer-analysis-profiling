@@ -10,13 +10,13 @@
 To set up this project locally you'll need:
   * Dataset online available: "/kaggle/input/customer-personality-analysis/marketing_campaign.csv"
   * Libraries:
-   *  numpy
-   *  pandas
-   *  matplotlib
-   *  seaborn
-   *  scipy
-   *  statsmodel
-   *  sklearn
+    *  numpy
+    *  pandas
+    *  matplotlib
+    *  seaborn
+    *  scipy
+    *  statsmodel
+    *  sklearn
 
 
 # Project Motivation
