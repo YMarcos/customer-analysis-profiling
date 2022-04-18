@@ -9,7 +9,7 @@
 # Set Up
 To set up this project locally you'll need:
   * Dataset online available: "/kaggle/input/customer-personality-analysis/marketing_campaign.csv"
-  * Libraries:
+  * Libraries (all details are provided in requirements.txt):
     *  numpy
     *  pandas
     *  matplotlib
