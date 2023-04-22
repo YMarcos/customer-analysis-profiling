@@ -11,7 +11,7 @@ fonttools==4.32.0
 ipykernel==6.13.0
 ipython==8.2.0
 jedi==0.18.1
-joblib==1.1.0
+joblib==1.1.1
 jupyter-client==7.2.2
 jupyter-core==4.9.2
 kiwisolver==1.4.2
